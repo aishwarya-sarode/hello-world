@@ -6,7 +6,7 @@ pass
 #SUBTRACT implementation
 Module B
 def subtract(x,y):
-return x-y
+pass
 
 #MULTIPLY implementation
 Module C

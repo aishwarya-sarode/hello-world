@@ -1,20 +1,26 @@
 #ADD implementation
+Module A
 def add(x,y):
 return x+y
 
 #SUBTRACT implementation
+Module B
 def subtract(x,y):
 return x-y
 
 #MULTIPLY implementation
+Module C
 return x*y
 
 #Divide implementation
+Module D
 def divide(x,y):
 if y==0:
      return DIVIDE_BY_0_ERROR
 else
     return x/y
+
 #square impl
+Module E
 def square(x):
   pass
